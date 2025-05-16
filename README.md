@@ -4,7 +4,7 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 
 ## 🔗 Live Demo
 
-https://kusamthakur.github.io/Calculater/
+https://kusamthakur.github.io/calculator/
 
 ---
 
